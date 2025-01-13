@@ -1,0 +1,5 @@
+![admin](https://github.com/user-attachments/assets/a10474d2-2654-4ee7-8b57-86f000a1c9a4)
+![Login](https://github.com/user-attachments/assets/d397b511-fb7a-46e0-b63b-2c20e2d58f86)
+![Main_Window](https://github.com/user-attachments/assets/da4014f1-4226-4c7c-97f8-be3391be21fa)
+![open_task_Mang](https://github.com/user-attachments/assets/82616882-1464-4b76-95c2-04b3f3f0e4ff)
+![Sign_up](https://github.com/user-attachments/assets/bfa9a161-4e6b-44bb-9022-cb27c6209d6e)
